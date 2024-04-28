@@ -4,7 +4,7 @@ export const projects = [
     subtitle: 'MERN Stack',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: '/src/assets/mern1.jpg',
+    image: './src/assets/mern1.jpg',
     link: 'https://github.com/Razvi20',
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: 'React and Python',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: '/src/assets/idk.jpg',
+    image: './src/assets/idk.jpg',
     link: 'https://github.com/Razvi20',
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: 'React and Firebase',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: 'src/assets/react_fire.png',
+    image: './src/assets/react_fire.png',
     link: 'https://github.com/Razvi20',
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: 'React Hooks',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: 'src/assets/react.png',
+    image: './src/assets/react.png',
     link: 'https://github.com/Razvi20',
   },
 ];

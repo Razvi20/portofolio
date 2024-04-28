@@ -1,3 +1,5 @@
+import codingSvg from '../assets/coding.svg';
+
 export default function About() {
   return (
     <section id="about">
@@ -34,7 +36,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="src\assets\coding.svg"
+            src={codingSvg}
           />
         </div>
       </div>

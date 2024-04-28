@@ -1,10 +1,15 @@
+import mern1Jpg from './assets/mern1.jpg';
+import idkJpg from './assets/idk.jpg';
+import react_firePng from './assets/react_fire.png';
+import reactPng from './assets/react.png';
+
 export const projects = [
   {
     title: 'React Reserve',
     subtitle: 'MERN Stack',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './src/assets/mern1.jpg',
+    image: mern1Jpg,
     link: 'https://github.com/Razvi20',
   },
   {
@@ -12,7 +17,7 @@ export const projects = [
     subtitle: 'React and Python',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './src/assets/idk.jpg',
+    image: idkJpg,
     link: 'https://github.com/Razvi20',
   },
   {
@@ -20,7 +25,7 @@ export const projects = [
     subtitle: 'React and Firebase',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './src/assets/react_fire.png',
+    image: react_firePng,
     link: 'https://github.com/Razvi20',
   },
   {
@@ -28,7 +33,7 @@ export const projects = [
     subtitle: 'React Hooks',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './src/assets/react.png',
+    image: reactPng,
     link: 'https://github.com/Razvi20',
   },
 ];
